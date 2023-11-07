@@ -336,9 +336,9 @@ body {
     width: 100%;
     height: 100%;
     background: #FAF7FD;
-    transition: -webkit-transform 300ms ease-in;
-    transition: transform 300ms ease-in;
-    transition: transform 300ms ease-in, -webkit-transform 300ms ease-in;
+    transition: -webkit-transform 700ms ease;
+    transition: transform 700ms ease;
+    transition: transform 700ms ease, -webkit-transform 700ms ease;
 }
 
 .content h3 {
